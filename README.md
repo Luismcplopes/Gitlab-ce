@@ -1,4 +1,7 @@
 # Gitlab-ce
+The latest docker guide can be found here: GitLab Docker images.
+https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/docker/README.md
+https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/docker/README.md#install-gitlab-using-docker-compose
 
 https://github.com/gitlabhq/gitlabhq
 
